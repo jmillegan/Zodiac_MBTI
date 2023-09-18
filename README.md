@@ -33,5 +33,17 @@ Creating Tableau to illustrate any trends just looking at the date in a visual w
  
 Overall findings: After several attempted iterations, we found the data was not big enough to give a definitive result.
 
-Summary: Tableau map, slides(beginning numbers)  
+Summary: Tableau map, slides(beginning numbers)
+
+
+This project is ran in Jupyter notebook having imported the csv file.
+
+We created the notebook with the use of Machine Learning, comparing Myers Briggs traits to Astrology signs.
+
+Created by:
+    Kendal Bergman
+    Lewis Johnson
+    Jo Ann Millegan
+    Seth Carlyon
+
      
