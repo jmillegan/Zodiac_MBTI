@@ -36,9 +36,11 @@ Attempted Machine Learning Iterations:
 
 We also created a Tableau workbook to visualize the distribution of Sun Signs and MBTI Types within the dataset.
  
-## Summary: Tableau map, slides(beginning numbers)
+## Summary:
 
-This project is run in Jupyter notebook, using an imported the csv file. We created a variety of machine learning models looking at Myers Briggs types/traits and astrological signs.
+This project is run in Jupyter notebook, using an imported the csv file. We created a variety of machine learning models looking at Myers Briggs types/traits and astrological signs. 
+
+There is also a Tableau workbook and a slideshow presentation.
 
 ## Overall findings: 
 After several attempted iterations we were unable to create a model with an accuracy rate above 75%. Our data set was quite small and also self-reported -- these factors could have contributed to the failure of our model.
