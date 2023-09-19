@@ -33,7 +33,12 @@ Creating Tableau to illustrate any trends just looking at the date in a visual w
  
 Overall findings: After several attempted iterations, we found the data was not big enough to give a definitive result.
 
+<<<<<<< HEAD
 Summary: Tableau map, slides(beginning numbers)  
+=======
+Summary: Tableau map, slides(beginning numbers)
+
+>>>>>>> 763012b14ebba29a29410ce5542b9b9451fe287f
 
 This project is ran in Jupyter notebook having imported the csv file.
 
@@ -45,5 +50,9 @@ Created by:
     Jo Ann Millegan
     Seth Carlyon
 
+<<<<<<< HEAD
     
             
+=======
+     
+>>>>>>> 763012b14ebba29a29410ce5542b9b9451fe287f
