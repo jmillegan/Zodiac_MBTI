@@ -45,7 +45,7 @@ Overall findings:
     After several attempted iterations we were unable to create a model with an accuracy rate above 75%. Our data set was quite small and also self-reported -- these factors could have contributed to the failure of our model.
   
 Created by:
-    Kendal Bergman
-    Lewis Johnson
-    Jo Ann Millegan
+    Kendal Bergman,
+    Lewis Johnson,
+    Jo Ann Millegan,
     Seth Carlyon
