@@ -6,12 +6,12 @@ We wanted this to be a fun and low stakes topic, exploring how Astrology Signs a
 The purpose of this project was to use Machine Learning as well as previous technologies we learned in the Boot Camp to solve, analyze, and visualize a problem.
 
 ## Data Gathering:
-Via Kaggle (https://www.kaggle.com/datasets/dakotagravitt/mbti-and-birthdays)
-Googled: Astrology sign personality traits, which in turn took us all to magazine sites.
-
 After discussing what type of project we wanted to work on, we set about finding a dataset. We were able to find a dataset in Kaggle that contained birthdate information as well as self-reported Myers Briggs Types. We hoped to find a larger dataset, but this was the only dataset we were able to find that had birthday information as well as some amount of personality trait information. 
 
 We downloaded the CSV and used Python to clean the data in Jupyter notebook and prepare it for creating machine learning models. This included dropping columns, adding columns, using for-loops, creating dictionaries, and other methods to preprocess the data.
+
+Via Kaggle (https://www.kaggle.com/datasets/dakotagravitt/mbti-and-birthdays)
+We also Googled astrological sign personality traits, which in turn took us to many women's magazine websites.
 
 ## Process - Data Cleaning & Preprocessing:
 
