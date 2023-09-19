@@ -42,16 +42,10 @@ This project is ran in Jupyter notebook having imported the csv file.
 We created the notebook with the use of Machine Learning, comparing Myers Briggs traits to Astrology signs.
 
 Overall findings: 
-    After several attempted iterations we were unable to create a model with an accuracy rate above 75%. Our data set was quite small and also self-reported --      these factors could have contributed to the failure of our model.
+    After several attempted iterations we were unable to create a model with an accuracy rate above 75%. Our data set was quite small and also self-reported -- these factors could have contributed to the failure of our model.
   
 Created by:
     Kendal Bergman
     Lewis Johnson
     Jo Ann Millegan
     Seth Carlyon
-
-    
-            
-=======
-     
->>>>>>> 763012b14ebba29a29410ce5542b9b9451fe287f
