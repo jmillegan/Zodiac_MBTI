@@ -32,32 +32,24 @@ Attempted Iterations:
 
 Created a Tableau workbook to visualize the distribution of Sun Signs and MBTI Types within the dataset.
  
-<<<<<<< HEAD
+
 Overall findings: After several attempted iterations, we found the data was not big enough to give a definitive result.
 
-<<<<<<< HEAD
-Summary: Tableau map, slides(beginning numbers)  
-=======
 Summary: Tableau map, slides(beginning numbers)
-
->>>>>>> 763012b14ebba29a29410ce5542b9b9451fe287f
 
 This project is ran in Jupyter notebook having imported the csv file.
 
 We created the notebook with the use of Machine Learning, comparing Myers Briggs traits to Astrology signs.
 
-=======
 Overall findings: 
     After several attempted iterations we were unable to create a model with an accuracy rate above 75%. Our data set was quite small and also self-reported --      these factors could have contributed to the failure of our model.
   
->>>>>>> b500c7b27f0fd33b28f24f402fd886b9bbc3b07f
 Created by:
     Kendal Bergman
     Lewis Johnson
     Jo Ann Millegan
     Seth Carlyon
 
-<<<<<<< HEAD
     
             
 =======
