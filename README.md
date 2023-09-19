@@ -1,11 +1,11 @@
-# Zodiac_MBTI
-Brain Storming: 
+# Machine Learning with Astrology & the Myers Briggs Type Indicator
+## Brain Storming: 
     We wanted this to be a fun and low stakes topic, exploring how Astrology Signs and Myer Briggs Types could connect.  
     
-Purpose:
+## Purpose:
    The purpose of this project was to use Machine Learning as well as previous technologies we learned in the Boot Camp to solve, analyze, and visualize a          problem.
 
-Data Gathering:
+## Data Gathering:
     Via Kaggle (https://www.kaggle.com/datasets/dakotagravitt/mbti-and-birthdays)
     Googled: Astrology sign personality traits, which in turn took us all to magazine sites.
 
@@ -13,7 +13,7 @@ We downloaded the CSV and used Python to clean the data and prepare it for creat
 
 For our first attempt at creating a machine learning model we tried to use sun sign personality traits to predict sun signs. However, because personality traits were not in the original dataset, we at first tried to add personality traits to each person based on the sun sign. This resulted in a 100% prediction rate, as the sun signs all had identical personality traits. We didn't consider how adding identical sets of traits for each sign would mean that the model would not work as we'd hoped. 
 
-Process:
+## Process:
   - Added the same traits for each zodiac sign, created new columns for each trait
   - Created new dictionary of MBTI traits for each type of the 16 types, using the 8 letters in combinations of 4 (E,I,N,S,T,F,J,P)
   - Sun sign and traits
@@ -32,16 +32,13 @@ Attempted Iterations:
 
 Created a Tableau workbook to visualize the distribution of Sun Signs and MBTI Types within the dataset.
  
-
-Overall findings: After several attempted iterations, we found the data was not big enough to give a definitive result.
-
-Summary: Tableau map, slides(beginning numbers)
+## Summary: Tableau map, slides(beginning numbers)
 
 This project is ran in Jupyter notebook having imported the csv file.
 
 We created the notebook with the use of Machine Learning, comparing Myers Briggs traits to Astrology signs.
 
-Overall findings: 
+## Overall findings: 
     After several attempted iterations we were unable to create a model with an accuracy rate above 75%. Our data set was quite small and also self-reported -- these factors could have contributed to the failure of our model.
   
 Created by:
